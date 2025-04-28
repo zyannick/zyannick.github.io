@@ -4,7 +4,7 @@ layout: default
 
 # Yannick Zoetgnande - AI Research Scientist
 
-👋 Hi there! I'm Yannick, a multi-disciplinary AI research scientist based in Lyon, France.
+👋 Hi there! I'm Yannick, a multi-disciplinary AI research scientist based in Lyon, France. Here a more advanced portefolio (https://www.notion.so/Yannick-Zoetgnande-PhD-1e3494137125807c92dbcca9e82f17da?pvs=4)
 
 🔬 My work focuses on Fundamental AI Research. I have experience with images/video (Computer Vision, thermal imaging), biological data (peptides, ECG), and voice data (Emotion transfer in Speech).
 
